@@ -1,14 +1,14 @@
 # Site settings
-title: "BioVis 2026"
+title: "BioVis 2027"
 email: "website@biovis.net"
 description: "Biological Data Visualization"
-baseurl: "/2026"
+baseurl: "/2027"
 url: "http://biovis.net"
-conferenceshort: "BioVis 2026"
+conferenceshort: "BioVis 2027"
 
-IEEE_conference_date: "November 9 - 13, 2026"
-IEEE_conference_place: "Boston, Massachusetts"
-IEEE_challenge_date: "November 9, 2026"
+IEEE_conference_date: "November 7 - 12, 2027"
+IEEE_conference_place: "Chicago, Illinois"
+IEEE_challenge_date: "to be announced"
 
 year: 2026
 
@@ -18,30 +18,30 @@ IEEE_deadline_submission: "August 4, 2026"
 IEEE_deadline_notification: "August 12, 2026"
 IEEE_deadline_camera: "August 19, 2026"
 
-ismb_conference_name: "ISMB 2026"
-ismb_conference_link: "https://www.iscb.org/ismb2026"
-ismb_conference_registration_link: "https://www.iscb.org/ismb2026/register"
-ismb_conference_date: "July 12 - 16, 2026"
-ismb_conference_place: "Washington, DC, USA"
-ismb_conference_key_dates_link: "https://www.iscb.org/ismb2026/key-dates"
+ismb_conference_name: "ISMB 2027"
+ismb_conference_link: "https://www.iscb.org/ismb2027"
+ismb_conference_registration_link: "https://www.iscb.org/ismb2027/register"
+ismb_conference_date: "July 18 - 22, 2027"
+ismb_conference_place: "Copenhagen, Denmark"
+ismb_conference_key_dates_link: "https://www.iscb.org/ismb2027/key-dates"
 
-ismb_cosi_date: "July 14, 2026"
+ismb_cosi_date: "July 22, 2027"
 
-ismb_paper_submission_deadline: "January 20, 2026"
-ismb_paper_conditional_acceptance: "March 10, 2026"
-ismb_paper_revision_deadline: "March 24, 2026"
-ismb_paper_final_acceptance: "April 2, 2026"
+ismb_paper_submission_deadline: "January 14, 2027"
+ismb_paper_conditional_acceptance: "March 10, 2027"
+ismb_paper_revision_deadline: "March 24, 2027"
+ismb_paper_final_acceptance: "April 2, 2027"
 
-ismb_talk_submission_deadline: "April 9, 2026"
-ismb_talk_acceptance: "May 5, 2026"
+ismb_talk_submission_deadline: "April 8, 2027"
+ismb_talk_acceptance: "May 6, 2026"
 
-ismb_poster_submission_deadline: "April 9, 2026"
-ismb_poster_acceptance: "May 5, 2026"
+ismb_poster_submission_deadline: "April 8, 2027"
+ismb_poster_acceptance: "May 6, 2026"
 ismb_poster_late_submission_deadline: "May 7, 2026"
 ismb_poster_late_acceptance: "May 14, 2026"
 
-ismb_paper_submission_link: "https://www.iscb.org/ismb2026/call-for-submissions/proceedings"
-ismb_abstract_submission_link: "https://www.iscb.org/ismb2026/call-for-submissions/abstracts"
+ismb_paper_submission_link: "https://www.iscb.org/ismb2027/call-for-submissions/proceedings"
+ismb_abstract_submission_link: "https://www.iscb.org/ismb2027/call-for-submissions/abstracts"
 
 #bmc_submission_deadline: ""
 #bmc_conditional_accept: ""
