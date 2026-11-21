@@ -11,7 +11,7 @@ menu: main
 ### General chairs
 
 [Zeynep Gümüş](https://labs.icahn.mssm.edu/gumuslab/), Icahn School of Medicine at Mount Sinai, USA  
-[Qianwen Wang](https://qianwen.info/), Harvard University, USA
+[Robert Krueger](https://kruegert.github.io/), New York University USA
 
 ### Website chair
 
